@@ -53,4 +53,19 @@ src/
 
 
 
-#Lib
+#Todo
+Camera
+Notificação
+Permissao
+Storage
+DeepLink
+ClipBoard
+Haptin
+Background processing
+Redux Toolkit
+TanStack Query
+expo router
+NativeWind
+React-native Reanimated Lottie Rive
+
+
